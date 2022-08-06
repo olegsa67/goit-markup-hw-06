@@ -865,9 +865,8 @@ address {
 }
 
 .checkbox__browser:checked+.checkbox__costom {
-    background-color: var(--accent-cl);
     border-color: var(--accent-cl);
-    background-image: url(../images/svg/icon-check.svg);
+    background-image: url(../icons/icon-check.svg);
     background-size: contain;
     background-origin: border-box;
 }
